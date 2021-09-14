@@ -125,6 +125,7 @@ html.black-sparse  body {
   display: flex;
   justify-content: center;
   align-items: flex-start;
+  direction: rtl;
 }
 .infobox-inner {
   font-size: 18px;
