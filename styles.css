@@ -1,7 +1,12 @@
+@font-face {
+  font-family: Vazir;
+  src: url('/Vazir.ttf') format('truetype');
+}
+
 html, body {
   margin: 0;
   scroll-behavior: smooth;
-  font-family: sans-serif;
+  font-family: Vazir;
 }
 .spacer {
   height: 1px;
@@ -28,7 +33,7 @@ html, body {
   font-weight: bold;
 }
 h1 {
-  font-family: sans-serif;
+  font-family: Vazir;
   margin: 0;
   font-size: 20px;
   text-align: center;
@@ -114,7 +119,7 @@ html.black-sparse  body {
   max-width: 75%;
 }
 .infobox {
-  font-family: sans-serif;
+  font-family: Vazir;
   margin-top: 10000px;
   height: 5000px;
   display: flex;
@@ -410,7 +415,7 @@ p:last-child {
   font-size: 30px;
 }
 .counter {
-  font-family: monospace;
+  font-family: Vazir;
   position: absolute;
   right: 20px;
   top: 10px;
@@ -476,7 +481,7 @@ p:last-child {
 }
 .quote .quote-body {
   font-size: 17px;
-  font-family: serif;
+  font-family: Vazir;
   font-style: italic;
   max-width: 80%;
   text-align: justify;
@@ -794,7 +799,7 @@ p:last-child {
   border-radius: 100%;
   font-size: 18px;
   text-align: center;
-  font-family: sans-serif;
+  font-family: Vazir;
   white-space: nowrap;
   cursor: pointer;
   display: flex;
@@ -963,7 +968,7 @@ blockquote strong {
   display: flex;
   align-items: center;
   padding: 8px;
-  font-family: monospace;
+  font-family: Vazir;
 }
 .table-content {
   flex: 1 1 184%;
