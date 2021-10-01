@@ -1,43 +1,154 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="265 -905 800 4725" width="800" height="4725">
-  <defs/>
-  <metadata> Produced by OmniGraffle 7.16 
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="funnel_d.svg"
+   id="svg42"
+   height="4725"
+   width="800"
+   viewBox="265 -905 800 4725"
+   version="1.1">
+  <sodipodi:namedview
+     inkscape:current-layer="svg42"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:cy="2514.4621"
+     inkscape:cx="400"
+     inkscape:zoom="0.13161178"
+     showgrid="false"
+     id="namedview44"
+     inkscape:window-height="821"
+     inkscape:window-width="1600"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata4"> Produced by OmniGraffle 7.16 
     <dc:date>2020-07-07 21:37:15 +0000</dc:date>
-  </metadata>
-  <g id="Canvas_11" stroke="none" fill-opacity="1" fill="none" stroke-opacity="1" stroke-dasharray="none">
-    <title>Canvas 11</title>
-    <g id="Canvas_11: Layer 1">
-      <title>Layer 1</title>
-      <g id="Graphic_11">
-        <rect x="265" y="-549" width="480" height="100" fill="#57c8ff"/>
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <g
+     transform="matrix(-1,0,0,1,1330,0)"
+     stroke-dasharray="none"
+     stroke-opacity="1"
+     fill="none"
+     fill-opacity="1"
+     stroke="none"
+     id="Canvas_11">
+    <title
+       id="title6">Canvas 11</title>
+    <g
+       id="Canvas_11: Layer 1">
+      <title
+         id="title8">Layer 1</title>
+      <g
+         id="Graphic_11">
+        <rect
+           id="rect10"
+           fill="#57c8ff"
+           height="100"
+           width="480"
+           y="-549"
+           x="265" />
       </g>
-      <g id="Graphic_10">
-        <rect x="265" y="-121" width="328" height="100" fill="#57c8ff"/>
+      <g
+         id="Graphic_10">
+        <rect
+           id="rect13"
+           fill="#57c8ff"
+           height="100"
+           width="328"
+           y="-121"
+           x="265" />
       </g>
-      <g id="Graphic_9">
-        <rect x="265" y="205" width="284" height="100" fill="#57c8ff"/>
+      <g
+         id="Graphic_9">
+        <rect
+           id="rect16"
+           fill="#57c8ff"
+           height="100"
+           width="284"
+           y="205"
+           x="265" />
       </g>
-      <g id="Graphic_8">
-        <rect x="265" y="502" width="268" height="100" fill="#57c8ff"/>
+      <g
+         id="Graphic_8">
+        <rect
+           id="rect19"
+           fill="#57c8ff"
+           height="100"
+           width="268"
+           y="502"
+           x="265" />
       </g>
-      <g id="Graphic_7">
-        <path d="M 265 -905 L 1065 -904 C 1065 -904 1065 -856 1065 -804 C 1065 -629 745 -711 745 -547 C 670 -547 265 -525 265 -525 Z" fill="#57c8ff"/>
+      <g
+         id="Graphic_7">
+        <path
+           id="path22"
+           fill="#57c8ff"
+           d="m 265,-905 800,1 c 0,0 0,48 0,100 0,175 -320,93 -320,257 -75,0 -480,22 -480,22 z" />
       </g>
-      <g id="Graphic_6">
-        <path d="M 265 -460 L 745 -459.05 C 745 -459.05 745 -413.45 745 -364.05 C 745 -197.8 593 -276.8 593 -121 C 548 -121 265 -99 265 -99 Z" fill="#57c8ff"/>
+      <g
+         id="Graphic_6">
+        <path
+           id="path25"
+           fill="#57c8ff"
+           d="m 265,-460 480,0.95 c 0,0 0,45.6 0,95 0,166.25 -152,87.25 -152,243.05 -45,0 -328,22 -328,22 z" />
       </g>
-      <g id="Graphic_5">
-        <path d="M 265 -29 L 593 -28.326316 C 593 -28.326316 593 4.0105263 593 39.042105 C 593 156.93684 549 98.51579 549 209 C 518.25 209 265 227 265 227 Z" fill="#57c8ff"/>
+      <g
+         id="Graphic_5">
+        <path
+           id="path28"
+           fill="#57c8ff"
+           d="m 265,-29 328,0.673684 c 0,0 0,32.3368423 0,67.368421 C 593,156.93684 549,98.51579 549,209 c -30.75,0 -284,18 -284,18 z" />
       </g>
-      <g id="Graphic_4">
-        <path d="M 265 279 L 549 279.6737 C 549 279.6737 549 312.01053 549 347.0421 C 549 464.93684 533 409.5158 533 520 C 506.375 520 265 535 265 535 Z" fill="#57c8ff"/>
+      <g
+         id="Graphic_4">
+        <path
+           id="path31"
+           fill="#57c8ff"
+           d="m 265,279 284,0.6737 c 0,0 0,32.33683 0,67.3684 0,117.89474 -16,62.4737 -16,172.9579 -26.625,0 -268,15 -268,15 z" />
       </g>
-      <g id="Graphic_3">
-        <rect x="265" y="588" width="268" height="195" fill="#57c8ff"/>
+      <g
+         id="Graphic_3">
+        <rect
+           id="rect34"
+           fill="#57c8ff"
+           height="195"
+           width="268"
+           y="588"
+           x="265" />
       </g>
-      <g id="Graphic_2">
-        <rect x="265" y="773" width="268" height="3047" fill="#57c8ff"/>
+      <g
+         id="Graphic_2">
+        <rect
+           id="rect37"
+           fill="#57c8ff"
+           height="3047"
+           width="268"
+           y="773"
+           x="265" />
       </g>
     </g>
   </g>

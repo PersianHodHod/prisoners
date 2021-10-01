@@ -389,7 +389,7 @@ p:last-child {
   border: 2px dashed black;
   position: absolute;
   top: auto;
-  left: 36%;
+  right: 36%;
 }
 .without-conviction-label:before {
   display: block;
@@ -398,7 +398,7 @@ p:last-child {
   width: 78%;
   height: 1px;
   position: absolute;
-  left: -80%;
+  right: -80%;
 }
 .stadium {
   width: 100%;
@@ -493,7 +493,7 @@ p:last-child {
   max-width: 100%;
   height: 2500px;
   margin-bottom: 5000px;
-  justify-content: left;
+  justify-content: right;
 }
 #subgroup img {
   max-width: 100%;
@@ -523,11 +523,11 @@ p:last-child {
   width: 57%;
 }
 .funnel-item.first:before {
-  content: '2.3 million incarcerated';
+  content: '۲.۳ میلیون زندانی';
   font-weight: normal;
   font-size: 18px;
   position: absolute;
-  left: 0;
+  right: 0;
   top: -47px;
   width: 100%;
   color: #0433FF5c;
@@ -538,7 +538,7 @@ p:last-child {
 .funnel-item.fourth:after,
 .funnel-item.fifth:after {
   position: absolute;
-  left: 0;
+  right: 0;
   bottom: -50px;
   color: #0433FF5c;
   width: 100%;
@@ -567,20 +567,20 @@ p:last-child {
   top: -90px;
 }
 .funnel-item.second:after {
-  content: '1.38 million remaining';
+  content: '۱.۳۸ میلیون باقی می‌مانند';
 }
 .funnel-item.third {
   margin-top: 45%;
   width: 38%;
 }
 .funnel-item.third:after {
-  content: '943K remaining';
+  content: '۹۴۳ هزار باقی می‌مانند';
 }
 .funnel-item.fourth:after {
-  content: '892K remaining';
+  content: '۸۹۲ هزار باقی می‌مانند';
 }
 .funnel-item.fifth:after {
-  content: '848K remaining';
+  content: '۸۴۸ هزار باقی می‌مانند';
 }
 .funnel-item.fourth {
   margin-top: 42%;
@@ -785,6 +785,7 @@ p:last-child {
   margin-right: 0;
   overflow: hidden;
   max-width: 100%;
+  direction: ltr;
 }
 #bubbles-inner {
   width: 100%;
@@ -851,6 +852,7 @@ p:last-child {
   z-index: 10;
   left: 2.5%;
   top: 2.5%;
+  direction: rtl;
 }
 .bubble-section {
   display: none;
@@ -1042,11 +1044,11 @@ blockquote strong {
     flex-direction: column;
   }
   .table-content .table-cell:first-child span:before {
-    content: 'The punitive strategy: ';
+    content: 'استراتژی تنبیهی: ';
     font-weight: bold;
   }
   .table-content .table-cell:nth-child(2) span:before {
-    content: 'The preventative strategy: ';
+    content: 'استراتژی پیش‌گیرانه: ';
     font-weight: bold;
   }
   .table-header {
@@ -1193,7 +1195,7 @@ blockquote strong {
   }
   .without-conviction-label:before {
     width: 48%;
-    left: -50%;
+    right: -50%;
   }
   .stalin .vertical-bars .bar {
     width: 19%;
@@ -1256,7 +1258,7 @@ blockquote strong {
   .funnel-item.third:after,
   .funnel-item.fourth:after,
   .funnel-item.fifth:after {
-    text-align: left;
+    text-align: right;
     bottom: -30px;
     text-indent: 0;
   }
