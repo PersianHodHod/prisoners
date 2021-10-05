@@ -510,7 +510,7 @@ p:last-child {
   background-size: cover;
 }
 .funnel-item {
-  margin-left: 8px;
+  margin-right: 8px;
   position: relative;
 }
 .funnel-item.first {
@@ -612,7 +612,7 @@ p:last-child {
 }
 .eu-country-inner {
   position: absolute;
-  margin-left: 15px;
+  margin-right: 15px;
   font-size: 14px;
 }
 .eu-list {
@@ -621,9 +621,9 @@ p:last-child {
   padding-top: 60px;
   background-image: url(img/bracket.svg);
   background-repeat: no-repeat;
-  background-position: right top;
+  background-position: left top;
   background-size: 43%;
-  margin-left: 9%;
+  margin-right: 9%;
 }
 .eu-list-inner {
   background-color: #57c7ff;
@@ -632,10 +632,10 @@ p:last-child {
   width: 0;
   height: 180px;
   content: '';
-  border-right: 2px solid black;
+  border-left: 2px solid black;
   position: absolute;
   top: 21px;
-  left: 0px;
+  right: 0px;
 }
 .eu-country-inner {
   display: none;
@@ -1271,19 +1271,19 @@ blockquote strong {
     margin-top: 200%;
   }
   .eu-country-inner {
-    margin-left: 5px;
+    margin-right: 5px;
   }
   .eu-country-inner:after {
-    left: 0px;
-    border-right: 1px solid black;
+    right: 0px;
+    border-left: 1px solid black;
   }
   .eu-list {
     width: 100%;
     font-size: 8px;
-    background-position: 41% 3px;
+    background-position: 59% 3px;
     background-size: 24% 60px;
     padding-top: 25px;
-    padding-right: 5px;
+    padding-left: 5px;
   }
   .repression .vertical-bars .bar {
     font-size: 9px;
@@ -1375,7 +1375,7 @@ blockquote strong {
     height: 2350px;
   }
   .eu-list {
-    background-position: 41% -10px;
+    background-position: 59% -10px;
   }
   .bubble-section {
     display: flex;
