@@ -353,7 +353,7 @@ p:last-child {
   background-image: url(img/person/red.svg);
   background-size: 10px;
   background-repeat: no-repeat;
-  background-position: 12px 25px;
+  background-position: 0px 25px;
   height: 40px;
 }
 .floyd .infobox-inner.text {
@@ -411,7 +411,7 @@ p:last-child {
 .arrow {
   padding-top: 7px;
   position: relative;
-  right: 3px;
+  left: 0px;
   color: red;
   font-size: 30px;
 }
@@ -1005,8 +1005,12 @@ blockquote strong {
   max-width: 100%;
 }
 #end-card h2 {
-  font-size: 70px;
+  font-size: 58px;
+  text-align: center;
   margin-bottom: 0;
+}
+#credits {
+  height: 20000px;
 }
 @media (min-width: 451px) {
   #bubbles-outer {
@@ -1121,16 +1125,16 @@ blockquote strong {
     padding: 5px;
     display: block;
     font-size: 14px;
-    text-align: left;
+    text-align: right;
     border: 2px dashed black;
     top: 70px;
     color: black;
   }
   .vertical-bars .bar .bar-label.tool-tip.right {
-    margin-left: 48px;
+    margin-right: -160px;
   }
   .vertical-bars .bar .bar-label.tool-tip.left {
-    margin-left: -160px;
+    margin-right: 60px;
   }
   .vertical-bars .bar .bar-label.tool-tip.under {
     width: 70px;
@@ -1191,7 +1195,7 @@ blockquote strong {
   }
   .vertical-bars .bar.last .bar-label.tool-tip {
     width: 190px;
-    margin-left: -225px;
+    margin-right: -225px;
   }
   .without-conviction-label:before {
     width: 48%;
@@ -1236,7 +1240,7 @@ blockquote strong {
   }
   .funnel-neck {
     margin-top: 140%;
-    width: 33.5%;
+    width: 31.5%;
     background-color: #57c8ff;
   }
   .funnel-neck > .funnel-item {
