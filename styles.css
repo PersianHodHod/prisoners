@@ -1012,6 +1012,12 @@ blockquote strong {
 #credits {
   height: 20000px;
 }
+.infobox-inner.about {
+  background-color: cyan;
+  font-size: 15px;
+  text-align: center;
+  top: 170px;
+}
 @media (min-width: 451px) {
   #bubbles-outer {
     overflow: visible;
