@@ -1,48 +1,54 @@
-# Incarceration in Real Numbers
+<div dir = "rtl">
 
-## About
 
-[Incarceration in real numbers](https://mkorostoff.github.io/incarceration-in-real-numbers) is a data visualization project by [Matt Korostoff](https://mkorostoff.github.io/). It is not affaliated with or sponsored by any organization. It launched in autumn 2020.
+<h1>حبس از دید اعداد واقعی</h1>
 
-## A word about words
+<h2>درباره</h2>
 
-The terms "jail" and "prison" are not interchangeable. A jail is a place where accused criminals are held while awaiting trial, or where convicted criminals serve short sentences for minor crimes. Jails are typically operated by county or city governments. A prison is an institution where convicted criminals are held for serious crimes, typically serving sentences of a year or more. Prisons are typically operated by the federal or state governments. [Rikers Island](https://en.wikipedia.org/wiki/Rikers_Island) is a jail. [Sing sing](https://en.wikipedia.org/wiki/Sing_Sing) is a prison.
+[حبس از دید اعداد واقعی](https://persianhodhod.ir/prisoners)، یک پروژه‌ی مصورسازی داده از [Matt Korostoff](https://mkorostoff.github.io/) است که در پاییز ۲۰۲۰ راه‌اندازی شده است. این پروژه تحت حمایت یا وابسته به هیچ نهادی نیست.
 
-## Alternate Version
+<h2>کلماتی درباره‌ی کلمات</h2>
 
-[Click here to view a version with just the icons](https://mkorostoff.github.io/incarceration-in-real-numbers/?mute=1), without all the commentary
+کلمات «بازداشتگاه» و «زندان» با هم قابل معاوضه نیستند. بازداشتگاه مکانی است که متهمانی که در آن جا نگه داشته می‌شوند، اغلب در انتظار محاکمه‌ی دادگاه هستند یا به خاطر جرایم کوچک مدت کوتاهی را به عنوان مجازات می‌گذارنند. اغلب بازداشت‌گاه‌ها تحت اداره‌ی شهرداری‌ها یا فرمانداری شهرستان‌ها هستند. زندان مکانی است که افراد محکوم به جرایم سنگین، معمولا زمانی بیشتر از ۱ سال را در آن می‌گذرانند. زندان‌ها معمولا توسط حکومت فدرال یا ایالتی اداره می‌شوند. برای مثال [جزیره‌ی ریکرز](https://en.wikipedia.org/wiki/Rikers_Island) یک بازداشتگاه است و [سینگ سینگ](https://en.wikipedia.org/wiki/Sing_Sing) یک زندان است.
 
-## Table of Contents
+<h2>نسخه‌ی آدمک‌ها</h2>
 
-#### Understanding the size of the problem
+برای مشاهده‌ی نسخه‌ای از پروژه که تنها آدمک‌ها در آن پیدا هستند، [این جا را کلیک کنید](https://persianhodhod.ir/prisoners/?mute=1).
 
-* [Incarceration per capita](https://mkorostoff.github.io/incarceration-in-real-numbers/#per-one-hundred)
-* [Incarceration in absolute numbers](https://mkorostoff.github.io/incarceration-in-real-numbers/#country-rank)
-* [Incarceration compared to casualties of war](https://mkorostoff.github.io/incarceration-in-real-numbers/#casualties)
-* [Total correctional population](https://mkorostoff.github.io/incarceration-in-real-numbers/#correctional-population)
-* [Over-use of plea bargains](https://mkorostoff.github.io/incarceration-in-real-numbers/#blue)
-* [People held without trial](https://mkorostoff.github.io/incarceration-in-real-numbers/#red)
-* [Comparison to Europe](https://mkorostoff.github.io/incarceration-in-real-numbers/#subgroup)
-* [Comparison to USSR](https://mkorostoff.github.io/incarceration-in-real-numbers/#stalin)
-* [Racial Disparities](https://mkorostoff.github.io/incarceration-in-real-numbers/#dots)
-* [Comparison to police shooting](https://mkorostoff.github.io/incarceration-in-real-numbers/#thousand)
-* [Discussion of George Floyd](https://mkorostoff.github.io/incarceration-in-real-numbers/#floyd)
-* [Comparison to Estimated Incarceration Abroad](https://mkorostoff.github.io/incarceration-in-real-numbers/#estimated)
-* [Political commentary on the nature of freedom](https://mkorostoff.github.io/incarceration-in-real-numbers/#freedom-wrapper)
 
-#### Solutions to mass incarceration
+<h2>فهرست مطالب</h2>
 
-* [Impact on public safety](https://mkorostoff.github.io/incarceration-in-real-numbers/#none-of-this)
-* [Impact of reduced criminalization](https://mkorostoff.github.io/incarceration-in-real-numbers/#bubbles-outer)
-* [Impact of preventative strategies](https://mkorostoff.github.io/incarceration-in-real-numbers/#invest-in-prevention)
-* [Table comparing preventative and punitive strategies](https://mkorostoff.github.io/incarceration-in-real-numbers/#table)
-* [Commentary on the importance of preventative measures](https://mkorostoff.github.io/incarceration-in-real-numbers/#essay)
+<h4>فهمیدن بزرگی مسئله</h4>
 
-## Sources and Methodology
+* [سرانه‌ی حبس](https://persianhodhod.ir/prisoners/#per-one-hundred)
+* [تعداد خالص زندانی‌ها](https://persianhodhod.ir/prisoners/#country-rank)
+* [مقایسه‌ی آمار حبس با تلفات جنگ](https://persianhodhod.ir/prisoners/#casualties)
+* [کل جمعیت تادیبی](https://persianhodhod.ir/prisoners/#correctional-population)
+* [افراط در معامله‌ی دادخواست](https://persianhodhod.ir/prisoners/#blue)
+* [انسان‌های زندانی بدون محاکمه](https://persianhodhod.ir/prisoners/#red)
+* [مقایسه با اروپا](https://persianhodhod.ir/prisoners/#subgroup)
+* [مقایسه با شوروی](https://persianhodhod.ir/prisoners/#stalin)
+* [نابرابری نژادی](https://persianhodhod.ir/prisoners/#dots)
+* [مقایسه با تیراندازی‌های پلیس](https://persianhodhod.ir/prisoners/#thousand)
+* [واکاوی داستان جورج فلوید](https://persianhodhod.ir/prisoners/#floyd)
+* [مقایسه با میزان حبس تخمینی در خارج از آمریکا](https://persianhodhod.ir/prisoners/#estimated)
+* [نگاهی سیاسی بر ماهیت آزادی](https://persianhodhod.ir/prisoners/#freedom-wrapper)
 
-See [SOURCES.md](https://github.com/MKorostoff/incarceration-in-real-numbers/blob/master/SOURCES.md)
+<h4>راهکارهایی برای مسئله‌ی حبس جمعی</h4>
 
-## Related works
+* [اثرگذاری بر امنیت عمومی](https://persianhodhod.ir/prisoners/#none-of-this)
+* [اثرگذاریِ کاهش جرم‌انگاری](https://persianhodhod.ir/prisoners/#bubbles-outer)
+* [اثرگذاریِ استراتژی‌های پیشگیرانه](https://persianhodhod.ir/prisoners/#invest-in-prevention)
+* [جدول مقایسه‌ی استراتژی‌های تنبیهی و پیشگیرانه](https://persianhodhod.ir/prisoners/#table)
+* [جستاری بر اهمیت اقدامات پیشگیرانه](https://persianhodhod.ir/prisoners/#essay)
 
-Incarceration in Real Numbers is part of my ongoing war on [scope insensitivity](https://www.lesswrong.com/posts/2ftJ38y9SRBCBsCzy/scope-insensitivity). If you enjoyed this project, you may also enjoy [Wealth Shown To Scale](https://mkorostoff.github.io/1-pixel-wealth/) and [Hundred Thousand Faces](https://mkorostoff.github.io/hundred-thousand-faces/).
+<h2>منابع و روش‌شناسی</h2>
 
+جهت مشاهده‌ی منابع و روش‌شناسی، [SOURCES.md](https://github.com/PersianHodHod/prisoners/blob/master/SOURCES.md) را ببینید.
+
+<h2>هم‌چنین ببینید</h2>
+
+«حبس از دید اعداد واقعی»، یکی از پروژه‌های هدهد فارسی و بخشی از مبارزه‌ی شخصی نویسنده برای [قلمروی بی‌احساسی](https://www.lesswrong.com/posts/2ftJ38y9SRBCBsCzy/scope-insensitivity) است. اگر شما هم آن علاقه داشتید، ممکن است به «[سرمایه در مقیاس پیکسل](https://persianhodhod.ir/wealth-in-pixels/)» نیز علاقه‌مند شوید.
+
+
+</div>
