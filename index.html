@@ -1133,12 +1133,12 @@
       <div class="infobox-inner about">
         <em> حبس از دید اعداد واقعی، پروژه‌ای از <b><a href="https://mkorostoff.github.io/" target="_blank">Matt Korostoff</a></b> است. در این باره <a href="https://github.com/PersianHodHod/prisoners/blob/master/README.md" target="_blank">بیش‌تر بدانید</a>. متن فارسی این صفحه توسط <b><a>زهرا شیخ ابولی</a></b> ترجمه شده است.</em>
         <p> این ۲ تا صوت هم جایزه‌ی این که تا این جا اومدی. D: </p>
-        <audio controls>
+        <audio controls id="zendooni">
           <source src="zendooni.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
         </audio>
         <br>
-        <audio controls>
+        <audio controls id="marmoolak">
           <source src="reza_marmoolak.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
         </audio>
@@ -1163,7 +1163,29 @@
   gtag('js', new Date());
 
   gtag('config', 'G-QXZ6PDG5YT');
+
+  let marmoolak = false;
+  let zendooni = false;
+
+  document.getElementById('zendooni').addEventListener('play', (c) => {
+    if (zendooni) return;
+    zendooni = true;
+    window.goatcounter.count({
+      path: window.location.pathname + 'audio2/',
+      title: document.title + ' - زندونی',
+    });
+  });
+
+  document.getElementById('marmoolak').addEventListener('play', (c) => {
+    if (marmoolak) return;
+    marmoolak = true;
+    window.goatcounter.count({
+      path: window.location.pathname + 'audio1/',
+      title: document.title + ' - مارمولک',
+    });
+  });
 </script>
-<img src="https://persianhodhod.goatcounter.com/count?p=/prisoners" style="position:absolute;bottom:0;left:0">
+<script data-goatcounter="https://persianhodhod.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 </html>
