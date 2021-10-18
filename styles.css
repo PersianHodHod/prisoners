@@ -436,6 +436,10 @@ p:last-child {
   background-repeat: no-repeat;
   background-position: bottom;
 }
+#stalin .description {
+  font-size: 13px;
+  font-style: italic;
+}
 .repression .vertical-bars .bar {
 
 }
