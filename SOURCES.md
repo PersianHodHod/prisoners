@@ -136,8 +136,6 @@
 
 هزینهٔ سالانه [مسکن حمایتی](https://www.cbpp.org/research/housing/supportive-housing-helps-vulnerable-people-live-and-thrive-in-the-community) حدود ۲۰،۰۰۰ دلار برای هر فرد بی‌خانمان است. همان طور که توسط شورای بین سازمانی  فدرال در مورد بی‌خانمانی بیان شده است، [هزینهٔ افرادی که در خیابان می‌خوابند](https://www.usich.gov/resources/uploads/asset_library/Ending_Chronic_Homelessness_in_2017.pdf) بسیار بیش‌تر است:
 
-The annual cost of [supportive housing](https://www.cbpp.org/research/housing/supportive-housing-helps-vulnerable-people-live-and-thrive-in-the-community) is around $20,000 per homeless person. As stated by the Federal Interagency Council on Homelessness, the [cost of people sleeping on the street](https://www.usich.gov/resources/uploads/asset_library/Ending_Chronic_Homelessness_in_2017.pdf) is much more:
-
 > بدون هیچ ارتباطی با با انواع مراقبت‌های مناسب، آن‌ها بین بخش‌های اورژانس بیمارستان، برنامه‌های سم‌زدایی، بازداشت‌ها، زندان‌ها و موسسات روانپزشکی رفت و آمد می‌کنند -همه با هزینهٔ عمومی بالا. برخی از مطالعات نشان داده اند که رها کردن یک فرد در بی‌خانمانی دائمی، برای مالیات دهندگان سالانه ۳۰،۰۰۰ تا ۵۰،۰۰۰ دلار هزینه دارد.
 
 این عدد شامل بهره‌وری است دست رفته، افزایش جرم و جنایت و یا کاهش ارزش دارایی‌ها نمی‌شود؛ البته که همهٔ این‌ها عوارض جانبی افزایش بی‌خانمانی هستند. همچنین توجه داشته باشید که هزینهٔ مسکن حمایتی احتمالا موقتی است در حالی که هزینهٔ مدیریت بی‌خانمانی دائمی است.
