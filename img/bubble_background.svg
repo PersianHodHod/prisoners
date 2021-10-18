@@ -2,14 +2,14 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="169 -470 1605 856" width="1605" height="856">
   <defs>
-    <font-face font-family="Helvetica Neue" font-size="18" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+    <font-face font-family="Vazir" font-size="18" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
       <font-face-src>
-        <font-face-name name="HelveticaNeue"/>
+        <font-face-name name="Vazir"/>
       </font-face-src>
     </font-face>
-    <font-face font-family="Helvetica Neue" font-size="26" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+    <font-face font-family="Vazir" font-size="26" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
       <font-face-src>
-        <font-face-name name="HelveticaNeue"/>
+        <font-face-name name="Vazir"/>
       </font-face-src>
     </font-face>
   </defs>
@@ -20,32 +20,32 @@
       <title>Layer 1</title>
       <g id="Graphic_6">
         <text transform="translate(215.97285 -440) rotate(90)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="18" font-weight="400" fill="black" x="8526513e-20" y="17">incarceration per 100K</tspan>
+          <tspan font-family="Vazir" dir="rtl" font-size="18" font-weight="400" fill="black" x="8526513e-20" y="17">حبس به ازای ۱۰۰ هزار نفر</tspan>
         </text>
       </g>
       <g id="Graphic_7">
         <text transform="translate(333.572 353.76087)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="18" font-weight="400" fill="black" x="18474111e-20" y="17">number incarcerated</tspan>
+          <tspan font-family="Vazir" font-size="18" font-weight="400" fill="black" x="18474111e-20" y="17">تعداد زندانی‌ها</tspan>
         </text>
       </g>
       <g id="Graphic_13">
         <text transform="translate(628.2823 348.7661)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="26" font-weight="400" fill="black" x="0" y="25">1M</tspan>
+          <tspan font-family="Vazir" font-size="26" font-weight="400" fill="black" x="0" y="25">یک میلیون</tspan>
         </text>
       </g>
       <g id="Graphic_14">
         <text transform="translate(1144.5323 348.3771)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="26" font-weight="400" fill="black" x="0" y="25">2M</tspan>
+          <tspan font-family="Vazir" font-size="26" font-weight="400" fill="black" x="0" y="25">دو میلیون</tspan>
         </text>
       </g>
       <g id="Graphic_18">
         <text transform="translate(187.41944 -205.11765)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="18" font-weight="400" fill="black" x="6252776e-19" y="17">700</tspan>
+          <tspan font-family="Vazir" font-size="18" font-weight="400" fill="black" x="6252776e-19" y="17">۷۰۰</tspan>
         </text>
       </g>
       <g id="Graphic_20">
         <text transform="translate(174.17094 58.06335)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="18" font-weight="400" fill="black" x="11.902528" y="17">350</tspan>
+          <tspan font-family="Vazir" font-size="18" font-weight="400" fill="black" x="11.902528" y="17">۳۵۰</tspan>
         </text>
       </g>
       <g id="Graphic_25">

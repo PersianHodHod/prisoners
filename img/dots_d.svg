@@ -2,14 +2,14 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="311 -137 589 837" width="589" height="837">
   <defs>
-    <font-face font-family="Helvetica Neue" font-size="20" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+    <font-face font-family="Vazir" font-size="20" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
       <font-face-src>
-        <font-face-name name="HelveticaNeue-Bold"/>
+        <font-face-name name="Vazir"/>
       </font-face-src>
     </font-face>
-    <font-face font-family="Helvetica Neue" font-size="13" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+    <font-face font-family="Vazir" font-size="13" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
       <font-face-src>
-        <font-face-name name="HelveticaNeue-Bold"/>
+        <font-face-name name="Vazir"/>
       </font-face-src>
     </font-face>
   </defs>
@@ -361,7 +361,7 @@
       </g>
       <g id="Graphic_684">
         <text transform="translate(387.54135 462.2273)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="20" font-weight="700" fill="black" x="0" y="20">Hispanic Men</tspan>
+          <tspan font-family="Vazir" font-size="17" font-weight="700" fill="black" x="0" y="20">مردان اسپانیایی‌تبار</tspan>
         </text>
       </g>
     </g>
@@ -709,7 +709,7 @@
       <g id="Graphic_911">
         <title>Hispanic Women</title>
         <text transform="translate(690.16674 462.7308)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="20" font-weight="700" fill="black" x="73896445e-20" y="20">Hispanic Women</tspan>
+          <tspan font-family="Vazir" font-size="17" font-weight="700" fill="black" x="73896445e-20" y="20">زنان اسپانیایی‌تبار</tspan>
         </text>
       </g>
       <g id="Graphic_912">
@@ -720,12 +720,12 @@
       </g>
       <g id="Graphic_914">
         <text transform="translate(400.5165 211.46849)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="20" font-weight="700" fill="black" x="58264504e-20" y="20">Black Men</tspan>
+          <tspan font-family="Vazir" font-size="17" font-weight="700" fill="black" x="58264504e-20" y="20">مردان سیاه‌پوست</tspan>
         </text>
       </g>
       <g id="Graphic_915">
         <text transform="translate(354.36364 -131.15827)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="13" font-weight="700" fill="black" x="48316906e-20" y="13">Will go to prison in his/her lifetime</tspan>
+          <tspan font-family="Vazir" font-size="13" font-weight="700" fill="black" x="48316906e-20" y="13">در طول زندگی خود به زندان خواهد رفت</tspan>
         </text>
       </g>
     </g>
@@ -1072,7 +1072,7 @@
       </g>
       <g id="Graphic_115">
         <text transform="translate(354.1691 -111.36094)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="13" font-weight="700" fill="black" x="0" y="13">Will not go to prison</tspan>
+          <tspan font-family="Vazir" font-size="13" font-weight="700" fill="black" x="0" y="13">به زندان نخواهد رفت</tspan>
         </text>
       </g>
     </g>
@@ -1419,7 +1419,7 @@
       </g>
       <g id="Graphic_229">
         <text transform="translate(397.04246 -36.38982)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="20" font-weight="700" fill="black" x="0" y="20">White Men</tspan>
+          <tspan font-family="Vazir" font-size="17" font-weight="700" fill="black" x="0" y="20">مردان سفیدپوست</tspan>
         </text>
       </g>
     </g>
@@ -1766,7 +1766,7 @@
       </g>
       <g id="Graphic_343">
         <text transform="translate(698.0701 -35.93317)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="20" font-weight="700" fill="black" x="7105427e-19" y="20">White Women</tspan>
+          <tspan font-family="Vazir" font-size="17" font-weight="700" fill="black" x="7105427e-19" y="20">زنان سفیدپوست</tspan>
         </text>
       </g>
     </g>
@@ -2113,7 +2113,7 @@
       </g>
       <g id="Graphic_457">
         <text transform="translate(701.9997 209.19234)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="20" font-weight="700" fill="black" x="0" y="20">Black Women</tspan>
+          <tspan font-family="Vazir" font-size="17" font-weight="700" fill="black" x="0" y="20">زنان سیاه‌پوست</tspan>
         </text>
       </g>
     </g>

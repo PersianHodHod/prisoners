@@ -2,12 +2,12 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" viewBox="306 249 644 266" width="644" height="266">
   <defs>
-    <font-face font-family="Helvetica Neue" font-size="14" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
+    <font-face font-family="Vazir" font-size="14" panose-1="2 0 8 3 0 0 0 9 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="975.0061" descent="-216.99524" font-weight="700">
       <font-face-src>
-        <font-face-name name="HelveticaNeue-Bold"/>
+        <font-face-name name="Vazir"/>
       </font-face-src>
     </font-face>
-    <font-face font-family="Helvetica Neue" font-size="14" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+    <font-face font-family="Vazir" font-size="14" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
       <font-face-src>
         <font-face-name name="HelveticaNeue"/>
       </font-face-src>
@@ -26,12 +26,12 @@
       </g>
       <g id="Graphic_18">
         <text transform="translate(447.8 254.12408)" fill="#ff2600">
-          <tspan font-family="Helvetica Neue" font-size="14" font-weight="700" fill="#ff2600" x="0" y="14">Violent crimes per 100K</tspan>
+          <tspan font-family="Vazir" dir="rtl" font-size="14" font-weight="700" fill="#ff2600" x="0" y="14">جرایم خشونت‌آمیز در هر ۱۰۰ هزار</tspan>
         </text>
       </g>
       <g id="Graphic_19">
         <text transform="translate(432.8764 357.9939)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="14" font-weight="700" fill="black" x="42632564e-21" y="14">Property crimes per 10K</tspan>
+          <tspan font-family="Vazir" dir="rtl" font-size="14" font-weight="700" fill="black" x="42632564e-21" y="14">جرایم اموال عمومی در هر ۱۰ هزار</tspan>
         </text>
       </g>
       <g id="Graphic_20">
@@ -39,7 +39,7 @@
       </g>
       <g id="Graphic_21">
         <text transform="translate(509.196 281.53018)" fill="#ff2600">
-          <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="#ff2600" x="0" y="13">758</tspan>
+          <tspan font-family="Vazir" font-size="14" font-weight="400" fill="#ff2600" x="0" y="13">۷۵۸</tspan>
         </text>
       </g>
       <g id="Graphic_23">
@@ -47,7 +47,7 @@
       </g>
       <g id="Graphic_22">
         <text transform="translate(311.4904 324.8)" fill="#ff2600">
-          <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="#ff2600" x="0" y="13">597</tspan>
+          <tspan font-family="Vazir" font-size="14" font-weight="400" fill="#ff2600" x="0" y="13">۵۹۷</tspan>
         </text>
       </g>
       <g id="Graphic_25">
@@ -55,7 +55,7 @@
       </g>
       <g id="Graphic_24">
         <text transform="translate(880.5 442.5)" fill="#ff2600">
-          <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="#ff2600" x="0" y="13">387</tspan>
+          <tspan font-family="Vazir" font-size="14" font-weight="400" fill="#ff2600" x="0" y="13">۳۸۷</tspan>
         </text>
       </g>
       <g id="Graphic_27">
@@ -63,7 +63,7 @@
       </g>
       <g id="Graphic_26">
         <text transform="translate(381.5 413.19335)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="black" x="0" y="13">450</tspan>
+          <tspan font-family="Vazir" font-size="14" font-weight="400" fill="black" x="0" y="13">۴۵۰</tspan>
         </text>
       </g>
       <g id="Graphic_29">
@@ -71,7 +71,7 @@
       </g>
       <g id="Graphic_28">
         <text transform="translate(494.4 385.4)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="black" x="0" y="13">514</tspan>
+          <tspan font-family="Vazir" font-size="14" font-weight="400" fill="black" x="0" y="13">۵۱۴</tspan>
         </text>
       </g>
       <g id="Graphic_31">
@@ -79,7 +79,7 @@
       </g>
       <g id="Graphic_30">
         <text transform="translate(921.2 493.03257)" fill="black">
-          <tspan font-family="Helvetica Neue" font-size="14" font-weight="400" fill="black" x="0" y="13">257</tspan>
+          <tspan font-family="Vazir" font-size="14" font-weight="400" fill="black" x="0" y="13">۲۵۷</tspan>
         </text>
       </g>
     </g>

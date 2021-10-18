@@ -2,9 +2,9 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="168 91 813 443" width="813" height="443">
   <defs>
-    <font-face font-family="Helvetica Neue" font-size="18" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
+    <font-face font-family="Vazir" font-size="18" panose-1="2 0 5 3 0 0 0 2 0 4" units-per-em="1000" underline-position="-100" underline-thickness="50" slope="0" x-height="517" cap-height="714" ascent="951.9958" descent="-212.99744" font-weight="400">
       <font-face-src>
-        <font-face-name name="HelveticaNeue"/>
+        <font-face-name name="Vazir"/>
       </font-face-src>
     </font-face>
   </defs>
@@ -24,12 +24,12 @@
         </g>
         <g id="Graphic_10">
           <text transform="translate(829.4182 318)" fill="black">
-            <tspan font-family="Helvetica Neue" font-size="18" font-weight="400" fill="black" x="0" y="17">1 million</tspan>
+            <tspan font-family="Vazir" dir="rtl" font-size="18" font-weight="400" fill="black" x="0" y="17">یک میلیون</tspan>
           </text>
         </g>
         <g id="Graphic_11">
           <text transform="translate(830.0025 156.5)" fill="black">
-            <tspan font-family="Helvetica Neue" font-size="18" font-weight="400" fill="black" x="0" y="17">2 million</tspan>
+            <tspan font-family="Vazir" font-size="18" font-weight="400" fill="black" x="0" y="17">دو میلیون</tspan>
           </text>
         </g>
         <g id="Graphic_12">
@@ -37,22 +37,22 @@
         </g>
         <g id="Graphic_18">
           <text transform="translate(195.41363 495.9316)" fill="black">
-            <tspan font-family="Helvetica Neue" font-size="18" font-weight="400" fill="black" x="0" y="17">1920</tspan>
+            <tspan font-family="Vazir" font-size="18" font-weight="400" fill="black" x="0" y="17">۱۹۲۰</tspan>
           </text>
         </g>
         <g id="Graphic_19">
           <text transform="translate(585.1296 495.9316)" fill="black">
-            <tspan font-family="Helvetica Neue" font-size="18" font-weight="400" fill="black" x="0" y="17">1980</tspan>
+            <tspan font-family="Vazir" font-size="18" font-weight="400" fill="black" x="0" y="17">۱۹۸۰</tspan>
           </text>
         </g>
         <g id="Graphic_20">
           <text transform="translate(779.778 495.9316)" fill="black">
-            <tspan font-family="Helvetica Neue" font-size="18" font-weight="400" fill="black" x="0" y="17">2010</tspan>
+            <tspan font-family="Vazir" font-size="18" font-weight="400" fill="black" x="0" y="17">۲۰۱۰</tspan>
           </text>
         </g>
         <g id="Graphic_21">
           <text transform="translate(386.12963 495.9316)" fill="black">
-            <tspan font-family="Helvetica Neue" font-size="18" font-weight="400" fill="black" x="0" y="17">1950</tspan>
+            <tspan font-family="Vazir" font-size="18" font-weight="400" fill="black" x="0" y="17">۱۹۵۰</tspan>
           </text>
         </g>
         <g id="Graphic_22">
