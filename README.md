@@ -48,7 +48,7 @@
 
 <h2>هم‌چنین ببینید</h2>
 
-«حبس از دید اعداد واقعی»، یکی از پروژه‌های هدهد فارسی و بخشی از مبارزه‌ی شخصی نویسنده برای [قلمروی بی‌احساسی](https://www.lesswrong.com/posts/2ftJ38y9SRBCBsCzy/scope-insensitivity) است. اگر شما هم آن علاقه داشتید، ممکن است به «[سرمایه در مقیاس پیکسل](https://persianhodhod.ir/wealth-in-pixels/)» نیز علاقه‌مند شوید.
+«حبس از دید اعداد واقعی»، یکی از پروژه‌های هدهد فارسی و بخشی از مبارزه‌ی شخصی نویسنده برای [قلمروی بی‌احساسی](https://www.lesswrong.com/posts/2ftJ38y9SRBCBsCzy/scope-insensitivity) است. اگر شما هم به آن علاقه داشتید، ممکن است به «[سرمایه در مقیاس پیکسل](https://persianhodhod.ir/wealth-in-pixels/)» نیز علاقه‌مند شوید.
 
 
 </div>
