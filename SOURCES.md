@@ -1,5 +1,3 @@
-<div dir="rtl">
-
 <h1>منابع و روش‌شناسی</h1>
 
 <h2>دربارهٔ این صفحه</h2>
@@ -31,12 +29,8 @@
 <h2>کل جمعیت تادیبی</h2>
 
 * در سال جاری، حدود [۴.۹ میلیون نفر زندانی خواهند شد](https://www.prisonpolicy.org/reports/repeatarrests.html).
-
 * در سال ۲۰۰۱، [۵.۶ میلیون بزرگسال وجود داشت که در زندگی‌شان تجربهٔ زندان داشته‌اند](https://www.bjs.gov/content/pub/pdf/piusp01.pdf). فرض می‌کنیم امروزه تقریبا همین تعداد از بزرگسالان در زندان بوده‌اند؛ اگرچه این عدد احتمالا در واقعیت بزرگتر است. احتمال به زندان رفتن در طول عمر برای یک کودک متولد ۲۰۰۱، [۶.۶ درصد](https://www.bjs.gov/content/pub/pdf/piusp01.pdf) پیش‌بینی شده بود. تقریبا [۸۰ میلیون](https://www.statista.com/statistics/241488/population-of-the-us-by-sex-and-age/) آمریکایی وجود دارند که متولد ۲۰۰۱ یا بعد از آن هستند؛ این بدین معنی است که انتظار می‌رود ۵.۳ میلیون از نوجوانانِ امروز، در برهه‌ای از زندگی خود زندانی شوند. این دو اعداد، (بزرگسالانی که قبلا زندانی بوده‌اند به علاوه نوجوانانی که در آینده زندانی خواهند شد) حداقل آمریکایی‌های زنده را که تا به حال در زندان بوده‌اند یا به زندان خواهند رفت را به ما می‌دهد: ۱۰.۹ میلیون نفر! بزرگسالانی که تا به حال زندانی نبوده‌اند ولی بالاخره زندانی می‌شوند در این عدد نیست. این عدد احتمالا مقداری قابل ملاحظه‌ای است؛ اما به اندازهٔ دو عدد دیگر بزرگ نیست زیرا احتمال به زندان رفتن در اوایل بزرگسالی است که به اوج خود می‌رسد. همهٔ این‌ها برای گفتن این است که ۱۰.۹ میلیون مطمئنا کمتر از عدد کل زندانیان است.
-
-
 * [۷۷ میلیون نفر دارای سابقهٔ کیفری هستند](https://www.prisonpolicy.org/reports/pie2020.html). «سابقهٔ کیفری» اینجا به این معنی است که یک شخص، در [بررسی سیستم‌های اطلاعات تاریخچه جنایی](https://www.ncjrs.gov/pdffiles1/bjs/grants/251516.pdf) مربوط به واحد دادگستری فدرال وجود داشته باشد.
-
 * [۱۱۳ میلیون *بزرگسال*](https://everysecond.fwd.us/downloads/EverySecond.fwd.us.pdf) وجود دارند که تا به حال یکی از اعضای درجه یک خانوادهٔ آن‌ها (والدین، خواهر یا برادر، یا فرزند) در زندان بوده است. کودکان در این آمار در نظر گرفته نشده‌اند؛ بدیهی است که تعداد واقعی قطعا بیش‌تر است اما هیچ کس این داده‌ها را جمع‌آوری نکرده است. همچنین افرادی که اعضای خانهٔ آن‌ها زندانی بوده ولی عضو درجه یک خانواده‌شان نبوده‌اند (مانند پدربزرگ و مادربزرگ) نیز در این آمار وجود ندارند.
 
 <h2>معاملهٔ دادخواست</h2>
@@ -91,15 +85,11 @@
 
 <h2>همبستگی بین حبس و جرم</h2>
 
-<div dir="ltr">
-
 * https://www.vera.org/downloads/publications/for-the-record-prison-paradox_02.pdf
 * https://www.brennancenter.org/our-work/analysis-opinion/between-2007-and-2017-34-states-reduced-crime-and-incarceration-tandem
 * https://www.scientificamerican.com/article/do-prisons-make-us-safer/
 * https://www.economist.com/democracy-in-america/2017/11/07/locking-up-more-people-does-not-reduce-crime
 * https://www.theatlantic.com/politics/archive/2015/02/the-many-causes-of-americas-decline-in-crime/385364/
-
-</div>
 
 <h2>کاهش جرم‌انگاری</h2>
 
@@ -157,8 +147,6 @@
 
 <h2>فهرست همهٔ منابع</h2>
 
-<div dir="ltr">
-
 * https://crime-data-explorer.fr.cloud.gov/downloads-and-docs
 * https://csgjusticecenter.org/wp-content/uploads/2020/01/confined-and-costly.pdf
 * https://eji.org/news/mass-incarceration-costs-182-billion-annually/
@@ -209,6 +197,3 @@
 * https://www.usich.gov/solutions/housing/supportive-housing/
 * https://www.vera.org/publications/price-of-prisons-2015-state-spending-trends/price-of-prisons-2015-state-spending-trends/price-of-prisons-2015-state-spending-trends-prison-spending
 
-</div>
-
-</div>
