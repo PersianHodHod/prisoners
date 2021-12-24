@@ -8,6 +8,7 @@ var url_params = new URLSearchParams(window.location.search);
 var mute = url_params.get('mute');
 var unscroll = url_params.get('unscroll');
 var scroll_count = 0;
+var fa_counter = new Intl.NumberFormat("fa-IR");
 
 if (mute) {
   html[0].classList.add('mute')
@@ -116,7 +117,7 @@ if (!mute) {
 window.addEventListener('scroll', function(e) {
   scroll_count = getScrollCount();
   if (scroll_count > 2000) {
-    counter.innerHTML = scroll_count.toLocaleString();
+    counter.innerHTML = fa_counter.format(scroll_count);
   }
   else {
     counter.innerHTML = '';
