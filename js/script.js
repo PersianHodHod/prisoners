@@ -8,6 +8,7 @@ var url_params = new URLSearchParams(window.location.search);
 var mute = url_params.get('mute');
 var unscroll = url_params.get('unscroll');
 var scroll_count = 0;
+
 var fa_counter = new Intl.NumberFormat("fa-IR");
 
 if (mute) {
@@ -20,7 +21,7 @@ if (unscroll) {
 if (!mute) {
   var citations = document.querySelectorAll('.citation');
   citations.forEach(function(citation, i){
-    citation.innerHTML = i+1;
+    citation.innerHTML = fa_counter.format(i+1);
   })
 
   var observer = new IntersectionObserver(function(entries){
